@@ -1,8 +1,11 @@
 body{
-    background-color: bisque;
-}
-header{
-    background-color: azure;
+    background-color: cyan;
 }
 
-header
+header{
+    background-color: aquamarine;
+}
+
+header div img{
+    width:300px;
+}
