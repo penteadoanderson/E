@@ -1,11 +1,17 @@
 body{
-    background-color: cyan;
+     background-color: rgba(103, 190, 231, 0.418);
 }
 
 header{
-    background-color: aquamarine;
+    background-color: rgba(0, 0, 0, 0.425);
 }
 
-header div img{
-    width:300px;
+#img-raio{
+    width: 300px;
+}
+
+.paragrafo{
+    text-align: center;
+    
+    
 }
